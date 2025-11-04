@@ -124,8 +124,6 @@ Design dialogues to be interactive, encouraging exploration and follow-up questi
 - **Visual Aids**
 Describe potential data visualizations, such as charts or graphs, to help users understand complex data.
 
-### Ready to Develop
-
 #### Team Roles
 - **My Focus:** Implement rule-based logic for initial query responses.
 - **NLP Experts:** Enhance language understanding.
