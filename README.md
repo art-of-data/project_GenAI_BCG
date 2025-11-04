@@ -6,9 +6,6 @@
 
 Welcome to the AI-Powered Financial Chatbot project! This initiative, developed by me and the GenAI consulting team at Boston Consulting Group (BCG), aims to leverage generative AI to analyze and interpret financial documents, specifically 10-K and 10-Q reports. Our goal is to build an intelligent chatbot that not only extracts and analyzes key financial data but also provides actionable insights in an interactive and user-friendly manner.
 
-### My team at BCG
-<img width="960" alt="Знімок екрана 2024-05-20 о 23 24 21" src="https://github.com/IraSafonik/project_GenAI_BCG/assets/32171563/a3b68613-870b-4664-be7d-b2a86ed00945">
-
 ## Objective
 The primary objective of this project is to create an AI-driven chatbot that can:
 - Extract and Analyze Financial Data: Automatically extract key financial metrics and information from 10-K and 10-Q documents.
@@ -148,4 +145,3 @@ By following these principles and collaborating with my team, I'll develop a cha
 - Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.
 - Gained experience in Python programming, including the use of libraries such as pandas for data manipulation.
 - Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to create a chatbot that provides user-friendly financial insights and analysis.
-<img width="746" alt="Знімок екрана 2024-06-01 о 12 31 59" src="https://github.com/IraSafonik/project_GenAI_BCG/assets/32171563/bf8581f4-9632-4617-8e50-41136f68d59f">
